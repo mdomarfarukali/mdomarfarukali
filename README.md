@@ -35,10 +35,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 **Operating Systems**  
 ![Windows](https://skillicons.dev/icons?i=windows)  
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)  
-![Linux](https://skillicons.dev/icons?i=linux)  
-![Linux](https://skillicons.dev/icons?i=nix-os)  
-![Linux](https://skillicons.dev/icons?i=fedora)
-![Linux](https://skillicons.dev/icons?i=RHEL)
+![Linux](https://skillicons.dev/icons?i=linux)
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" />  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NixOS_logo.svg" width="40" />  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="40" />  
@@ -48,6 +45,9 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
 
 
 ---
