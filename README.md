@@ -3,7 +3,7 @@
  Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> there, I’m Md Omar Faruk Ali  
 </h1>
 
-##
+
 > *“Code is not just instructions for machines, it’s a language for building the future.”*  
 
 I’m a **Computer Science Engineering student** at Techno Bengal Institute of Technology, driven by curiosity and a love for creating tech that makes life easier (and cooler 😎).  
