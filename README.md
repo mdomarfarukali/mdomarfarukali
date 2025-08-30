@@ -117,10 +117,6 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
     </table>
     <br />
   </div>
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdomarfarukali&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;" />
-</div>
-
 <!-- ## 📊 GitHub Vibes  
 
 <p align="center">
@@ -153,10 +149,10 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
   <b>⚡ Let’s connect and craft something extraordinary together! ⚡</b>
 </p>
 
-<h2 align="center">📈 Contribution Graph 📈</h2>
+<!-- <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdomarfarukali&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
