@@ -54,7 +54,67 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 [![Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)  
 
 ---
+<h2 style="text-align: left; color: #ffffff">GitHub Stats</h2>
 
+  <div style="margin: 20px 0">
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: center; padding: 10px">
+          <a href="https://git.io/streak-stats">
+            <img
+              src="https://streak-stats.demolab.com/?user=spreadsheets600&theme=transparent&hide_border=true&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
+              alt="GitHub Streak"
+              style="border-radius: 5px"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%; margin-bottom: 20px">
+      <tr>
+        <td style="text-align: center; padding: 10px; border: 1px solid #555">
+          <a href="#--------">
+            <img
+              height="215px"
+              alt="GitHub Stats"
+              src="https://github-readme-stats.vercel.app/api?username=spreadsheets600&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
+            />
+          </a>
+        </td>
+        <td
+          style="
+            text-align: center;
+            padding: 10px;
+            border: 1px solid #555;
+            border-spacing: 100px;
+          "
+        >
+          <a href="#--------">
+            <img
+              height="215px"
+              alt="Top Language"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=spreadsheets600&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
+              style="border-radius: 5px"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: center; padding: 10px">
+          <a href="#--------">
+            <img
+              width="100%"
+              style="border-radius: 5px"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=SpreadSheets600&theme=github-compact&hide_border=true"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <br />
+  </div>
 ## 📊 GitHub Vibes  
 
 <p align="center">
@@ -66,6 +126,13 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 <p>
   <img src="https://komarev.com/ghpvc/?username=mdomarfarukali&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="mdomarfarukali" />
 </p>
+
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%205%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+
 ---
 
 ## ✨ Fun Corner  
