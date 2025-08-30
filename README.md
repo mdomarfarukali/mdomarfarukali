@@ -49,6 +49,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdomarfarukali&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mdomarfarukali&theme=radical" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdomarfarukali&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdomarfarukali" />
 </p>
 
 <p>
