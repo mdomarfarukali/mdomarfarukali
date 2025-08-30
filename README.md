@@ -168,7 +168,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 
 - 💭 Dreaming about: Building my own SaaS one day  
 - ☕ Power source: Coffee + Late-night coding sessions  
-- 🎯 Motto: *Learn. Build. Break. Repeat.*  
+- 🎯 Motto: *Learn. Build. Break. Repeat...Gain the Escape Velocity*  
 
 ---
 
