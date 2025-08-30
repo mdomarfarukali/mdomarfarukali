@@ -23,7 +23,9 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ## 🛠️ Tech Arsenal  
 
 **Languages**  
-![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)  ![ShellScripting](https://skillicons.dev/icons?i=shell)
+![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) 
+![Bash](https://skillicons.dev/icons?i=bash)
+
 
 **Frameworks / Libraries**  
 ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Vue](https://skillicons.dev/icons?i=vue) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express)  
