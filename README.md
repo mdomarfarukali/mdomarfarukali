@@ -36,7 +36,9 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Windows](https://skillicons.dev/icons?i=windows)  
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)  
 ![Linux](https://skillicons.dev/icons?i=linux)  
-![Linux](https://skillicons.dev/icons?i=nixos)  
+![Linux](https://skillicons.dev/icons?i=nix-os)  
+![Linux](https://skillicons.dev/icons?i=fedora)
+![Linux](https://skillicons.dev/icons?i=RHEL)
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" />  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NixOS_logo.svg" width="40" />  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="40" />  
