@@ -46,7 +46,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white) -->
 
-## 🖥️ Operating Systems
+**🖥️ Operating Systems**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -55,7 +55,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+<!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) -->
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
