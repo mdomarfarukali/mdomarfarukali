@@ -27,6 +27,8 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![TailWind](https://skillicons.dev/icons?i=tailwind)
 ![Nix](https://skillicons.dev/icons?i=nix)
+![Bash](https://skillicons.dev/icons?i=fedora)
+
 
 
 
