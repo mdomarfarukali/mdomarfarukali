@@ -32,15 +32,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 
 **Operating Systems**  
 ![Windows](https://skillicons.dev/icons?i=windows) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Linux](https://skillicons.dev/icons?i=linux)  
-**Operating Systems**  
-![Windows](https://skillicons.dev/icons?i=windows)  
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)  
-![Linux](https://skillicons.dev/icons?i=linux)
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NixOS_logo.svg" width="40" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="40" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Red_Hat_logo.svg" width="70" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="40" />  
+**Operating Systems** 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
