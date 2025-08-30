@@ -55,8 +55,8 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
-<!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) -->
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+<!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) -->
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 
