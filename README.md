@@ -2,6 +2,8 @@
 <h1 align="center">
  Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> there, I’m Md Omar Faruk Ali  
 </h1>
+
+##
 > *“Code is not just instructions for machines, it’s a language for building the future.”*  
 
 I’m a **Computer Science Engineering student** at Techno Bengal Institute of Technology, driven by curiosity and a love for creating tech that makes life easier (and cooler 😎).  
@@ -128,10 +130,10 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 </p>
 
 
-<!--START_SECTION:waka-->
+<!-- START_SECTION:waka
 ![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue) -->
 
 ---
 
