@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+<h1 align="center">
 # Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there, I’m Md Omar Faruk Ali  
-
+</h1>
 > *“Code is not just instructions for machines, it’s a language for building the future.”*  
 
 I’m a **Computer Science Engineering student** at Techno Bengal Institute of Technology, driven by curiosity and a love for creating tech that makes life easier (and cooler 😎).  
