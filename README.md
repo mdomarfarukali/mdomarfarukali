@@ -8,7 +8,7 @@
 
 I’m a **Computer Science Engineering student** at Techno Bengal Institute of Technology, driven by curiosity and a love for creating tech that makes life easier (and cooler 😎).  
 
-⚡ When I’m not deep in code, you’ll find me exploring sci-fi worlds, geeking over new technologies, or breaking & fixing my Linux setup (intentionally, of course 😉).  
+⚡ When I’m not deep in code, you’ll find me exploring sci-fi worlds, geeking over new technologies, or breaking & fixing my whole system setup (intentionally, of course 😉).  
 
 ---
 
