@@ -51,6 +51,9 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mdomarfarukali&theme=radical" />
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mdomarfarukali&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="mdomarfarukali" />
+</p>
 ---
 
 ## ✨ Fun Corner  
