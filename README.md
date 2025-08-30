@@ -6,7 +6,7 @@
 
 > *“Code is not just instructions for machines, it’s a language for building the future.”*  
 
-I’m a **Computer Science Engineering student** at Techno Bengal Institute of Technology, driven by curiosity and a love for creating tech that makes life easier (and cooler 😎).  
+I’m a **student** , driven by curiosity and a love for creating tech that makes life easier (and cooler 😎).  
 
 ⚡ When I’m not deep in code, you’ll find me exploring sci-fi worlds, geeking over new technologies, or breaking & fixing my whole system setup (intentionally, of course 😉).  
 
