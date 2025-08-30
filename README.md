@@ -36,7 +36,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 <!-- 
 **Operating Systems**  
 ![Windows](https://skillicons.dev/icons?i=windows) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Linux](https://skillicons.dev/icons?i=linux)   -->
-**Operating Systems**
+<!-- **Operating Systems**
 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
@@ -44,7 +44,21 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white) -->
+
+## 🖥️ Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 
 
 ---
