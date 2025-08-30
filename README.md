@@ -62,7 +62,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
         <td style="text-align: center; padding: 10px">
           <a href="https://git.io/streak-stats">
             <img
-              src="https://streak-stats.demolab.com/?user=spreadsheets600&theme=transparent&hide_border=true&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
+              src="https://streak-stats.demolab.com/?user=mdomarfarukali&theme=transparent&hide_border=true&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
               alt="GitHub Streak"
               style="border-radius: 5px"
             />
@@ -77,7 +77,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
             <img
               height="215px"
               alt="GitHub Stats"
-              src="https://github-readme-stats.vercel.app/api?username=spreadsheets600&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
+              src="https://github-readme-stats.vercel.app/api?username=mdomarfarukali&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
             />
           </a>
         </td>
@@ -93,7 +93,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
             <img
               height="215px"
               alt="Top Language"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=spreadsheets600&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdomarfarukali&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
               style="border-radius: 5px"
             />
           </a>
@@ -107,7 +107,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
             <img
               width="100%"
               style="border-radius: 5px"
-              src="https://github-readme-activity-graph.vercel.app/graph?username=SpreadSheets600&theme=github-compact&hide_border=true"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=mdomarfarukali&theme=github-compact&hide_border=true"
             />
           </a>
         </td>
