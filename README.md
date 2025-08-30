@@ -29,9 +29,9 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 
 **Tools & Platforms**  
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Notion](https://skillicons.dev/icons?i=notion) ![Canva](https://skillicons.dev/icons?i=canva)  
-
+<!-- 
 **Operating Systems**  
-![Windows](https://skillicons.dev/icons?i=windows) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Linux](https://skillicons.dev/icons?i=linux)  
+![Windows](https://skillicons.dev/icons?i=windows) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Linux](https://skillicons.dev/icons?i=linux)   -->
 **Operating Systems** 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
