@@ -56,6 +56,9 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white) -->
 
+<h2>Familiar Operating Systems<h2/>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,nix,fedora,rehl,centos,macos,ios,android)
 **🖥️ Operating Systems**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
