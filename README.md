@@ -58,8 +58,8 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 
 <h2>Familiar Operating Systems<h2/>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,kali,nix,fedora,redhat,centos,debian,gnome,android)
-**🖥️ Operating Systems**
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,kali,nix,fedora,redhat,centos,debian,gnome,android,trail)
+<!-- **🖥️ Operating Systems**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -70,8 +70,8 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 <!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) -->
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+<!-- ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white) --> -->
 
 
 ---
