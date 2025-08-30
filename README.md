@@ -26,6 +26,7 @@ I’m a **Computer Science Engineering student** at Techno Bengal Institute of T
 ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) 
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![TailWind](https://skillicons.dev/icons?i=tailwind)
+![Nix](https://skillicons.dev/icons?i=nix)
 
 
 
