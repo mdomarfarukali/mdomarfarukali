@@ -33,7 +33,10 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
 
 
 **Frameworks / Libraries**  
-![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Vue](https://skillicons.dev/icons?i=vue) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express)  
+<!-- ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Vue](https://skillicons.dev/icons?i=vue) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express)   -->
+
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,threejs, nodejs,expressjs,flask,huggingface&perline=12)
+
 
 **Databases**  
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)  
