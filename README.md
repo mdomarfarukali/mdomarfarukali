@@ -23,8 +23,10 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
 ## 🛠️ Tech Arsenal  
 
 **Languages**  
-![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) 
-![Bash](https://skillicons.dev/icons?i=bash)
+<!-- ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) 
+![Bash](https://skillicons.dev/icons?i=bash) -->
+
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,html,css,js,bash&perline=12)
 
 
 
