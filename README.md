@@ -74,9 +74,8 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 <!-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) -->
 <!-- ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white) --> -->
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white) -->
 
-#
 
 ## 🌐 Let’s Connect  
 
