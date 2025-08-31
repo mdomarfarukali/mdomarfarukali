@@ -41,8 +41,8 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)  
 
 **Tools & Platforms**  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,wsl,replit,linux,vscode,figma,canva&perline=12)
-https://skillicons.dev/icons?i=linux,vscode,sublime,replit,notion,github&theme=dark
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,wsl,replit,linux,vscode,androidstudio,figma,canva&perline=12)
+<!-- https://skillicons.dev/icons?i=linux,vscode,sublime,replit,notion,github&theme=dark -->
 
 <!-- ![Notion](https://skillicons.dev/icons?i=notion)  -->
 <!-- ![Canva](https://skillicons.dev/icons?i=canva)   -->
