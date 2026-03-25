@@ -37,14 +37,16 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
 **Frameworks / Libraries**  
 <!-- ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Vue](https://skillicons.dev/icons?i=vue) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express)   -->
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,nodejs,expressjs,flask,huggingface&perline=12)
+<!-- ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,nodejs,expressjs,flask,huggingface&perline=12) -->
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,nodejs,expressjs&perline=12)
 
 
 **Databases**  
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)  
 
 **Tools & Platforms**  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,wsl,replit,linux,vscode,androidstudio,figma,canva&perline=12)
+<!-- ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,wsl,replit,linux,vscode,androidstudio,figma,canva&perline=12) -->
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,wsl,replit,linux,vscode,androidstudio,figma,canva&perline=12)
 <!-- https://skillicons.dev/icons?i=linux,vscode,sublime,replit,notion,github&theme=dark -->
 
 <!-- ![Notion](https://skillicons.dev/icons?i=notion)  -->
@@ -65,7 +67,8 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
 
 <h2>Familiar Operating Systems<h2/>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,kali,nix,fedora,redhat,centos,debian,gnome,android,tailsos)
+<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,kali,nix,fedora,redhat,centos,debian,gnome,android,tailsos) -->
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,nix,fedora,gnome,android,tailsos,arch)
 <!-- **🖥️ Operating Systems**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
