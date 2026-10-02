@@ -156,7 +156,7 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
     </table>
     <br />
   </div>
-<!-- ## 📊 GitHub Vibes  
+<!-- ## 📊 GitHub Vibes  -->
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdomarfarukali&show_icons=true&theme=radical" />
@@ -164,12 +164,10 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdomarfarukali&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdomarfarukali" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mdomarfarukali&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="mdomarfarukali" />
-</p> -->
 
 
-<!-- START_SECTION:waka
+<!-- ## START_SECTION:waka
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue) -->
