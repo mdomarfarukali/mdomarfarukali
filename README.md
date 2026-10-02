@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/mdomarfarukali/mdomarfarukali/main/assets/header.svg" alt="Md Omar Faruk Ali" width="880"/> -->
-  <img src="./assets/header.svg" alt="Md Omar Faruk Ali" width="1880"/>
+  <img src="https://raw.githubusercontent.com/mdomarfarukali/mdomarfarukali/main/assets/header.svg" alt="Md Omar Faruk Ali" width="1880"/>
 </p>
 
 <!-- <h1 align="center">
