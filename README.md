@@ -141,7 +141,7 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
         </td>
       </tr>
     </table>
-    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+    <!-- <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
       <tr>
         <td style="text-align: center; padding: 10px">
           <a href="#--------">
@@ -153,7 +153,7 @@ I’m a **student** , driven by curiosity and a love for creating tech that make
           </a>
         </td>
       </tr>
-    </table>
+    </table> -->
     <br />
   </div>
 <!-- ## 📊 GitHub Vibes  -->
