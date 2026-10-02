@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="55%" stop-color="#090b16"/>
+      <stop offset="100%" stop-color="#12071a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ff3cac"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e7fbff"/>
+      <stop offset="48%" stop-color="#00f5ff"/>
+      <stop offset="100%" stop-color="#ff61d8"/>
+    </linearGradient>
+    <filter id="glowCyan">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowPink">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#243047" stroke-width="0.7" opacity=".45"/>
+    </pattern>
+    <radialGradient id="orb">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#00f5ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="360" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+
+    <!-- ambient glow -->
+    <circle cx="80" cy="40" r="210" fill="url(#orb)"/>
+    <circle cx="1110" cy="300" r="250" fill="url(#orb)" opacity=".55"/>
+    <circle cx="760" cy="60" r="160" fill="#a855f7" opacity=".05"/>
+
+    <!-- scanlines -->
+    <g opacity=".08">
+      <path d="M0 82H1200M0 166H1200M0 250H1200M0 334H1200" stroke="#fff"/>
+    </g>
+
+    <!-- top status bar -->
+    <rect x="34" y="25" width="1132" height="34" rx="9" fill="#0b0f1a" stroke="#26334b"/>
+    <circle cx="55" cy="42" r="5" fill="#ff4f8b"/>
+    <circle cx="73" cy="42" r="5" fill="#ffd166"/>
+    <circle cx="91" cy="42" r="5" fill="#00f5a0"/>
+    <text x="112" y="47" fill="#6f7f9d" font-family="monospace" font-size="13">mdomarfarukali@github — profile.sh</text>
+    <text x="1128" y="47" text-anchor="end" fill="#00f5a0" font-family="monospace" font-size="12">● ONLINE</text>
+
+    <!-- left terminal panel -->
+    <rect x="34" y="78" width="270" height="236" rx="14" fill="#070a12" stroke="#1d2a40"/>
+    <text x="55" y="105" fill="#00f5ff" font-family="monospace" font-size="12">$ whoami</text>
+    <text x="55" y="133" fill="#9ba9c2" font-family="monospace" font-size="12">role</text>
+    <text x="132" y="133" fill="#f4f7ff" font-family="monospace" font-size="12">cse_student</text>
+    <text x="55" y="158" fill="#9ba9c2" font-family="monospace" font-size="12">mode</text>
+    <text x="132" y="158" fill="#ff61d8" font-family="monospace" font-size="12">build.sh</text>
+    <text x="55" y="183" fill="#9ba9c2" font-family="monospace" font-size="12">shell</text>
+    <text x="132" y="183" fill="#00f5ff" font-family="monospace" font-size="12">linux/zsh</text>
+    <text x="55" y="208" fill="#9ba9c2" font-family="monospace" font-size="12">status</text>
+    <text x="132" y="208" fill="#00f5a0" font-family="monospace" font-size="12">building...</text>
+
+    <path d="M55 232H282" stroke="#1d2a40"/>
+    <text x="55" y="257" fill="#00f5ff" font-family="monospace" font-size="11">~/currently</text>
+    <text x="55" y="278" fill="#c7d1e3" font-family="monospace" font-size="11">→ full-stack</text>
+    <text x="55" y="296" fill="#c7d1e3" font-family="monospace" font-size="11">→ linux / open-source</text>
+
+    <!-- main identity -->
+    <text x="336" y="113" fill="#73829d" font-family="monospace" font-size="12">/* SYSTEM IDENTITY */</text>
+
+    <text x="332" y="170" fill="url(#name)" font-family="monospace" font-size="52" font-weight="700" letter-spacing="-2">
+      Md Omar Faruk Ali
+    </text>
+
+    <text x="337" y="202" fill="#d7deeb" font-family="monospace" font-size="15">
+      Computer Science &amp; Engineering • Full-Stack Developer
+    </text>
+
+    <rect x="337" y="222" width="690" height="1" fill="url(#line)" opacity=".7"/>
+
+    <!-- tags -->
+    <g font-family="monospace" font-size="12">
+      <rect x="337" y="241" width="146" height="31" rx="8" fill="#0a111c" stroke="#00d9ff" stroke-opacity=".65"/>
+      <text x="410" y="261" text-anchor="middle" fill="#00f5ff">FULL-STACK</text>
+
+      <rect x="493" y="241" width="142" height="31" rx="8" fill="#0a111c" stroke="#a855f7" stroke-opacity=".75"/>
+      <text x="564" y="261" text-anchor="middle" fill="#c58aff">LINUX / OSs</text>
+
+      <rect x="645" y="241" width="142" height="31" rx="8" fill="#0a111c" stroke="#ff3cac" stroke-opacity=".75"/>
+      <text x="716" y="261" text-anchor="middle" fill="#ff70c9">SYSTEMS</text>
+
+      <rect x="797" y="241" width="175" height="31" rx="8" fill="#0a111c" stroke="#00f5a0" stroke-opacity=".7"/>
+      <text x="884" y="261" text-anchor="middle" fill="#61ffc0">SYSTEM INTERNALS</text>
+    </g>
+
+    <text x="337" y="297" fill="#6f7f9d" font-family="monospace" font-size="12">
+      [mdomarfarukali@github:~]$ rules --show
+    </text>
+    <text x="337" y="312" fill="#6f7f9d" font-family="monospace" font-size="12">
+      . build → break → understand → rebuild
+    </text>
+    <text x="616" y="312" fill="#00f5ff" font-family="monospace" font-size="12">
+      █
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- right mini dashboard -->
+    <rect x="1010" y="78" width="156" height="236" rx="14" fill="#070a12" stroke="#1d2a40"/>
+    <text x="1030" y="105" fill="#ff61d8" font-family="monospace" font-size="11">stack.json</text>
+    <g font-family="monospace" font-size="10">
+      <text x="1030" y="132" fill="#8998b1">JS</text>
+      <rect x="1080" y="124" width="72" height="6" rx="3" fill="#172236"/>
+      <rect x="1080" y="124" width="43" height="6" rx="3" fill="#00f5ff"/>
+
+      <text x="1030" y="157" fill="#8998b1">React</text>
+      <rect x="1080" y="149" width="72" height="6" rx="3" fill="#172236"/>
+      <rect x="1080" y="149" width="57" height="6" rx="3" fill="#a855f7"/>
+
+      <text x="1030" y="182" fill="#8998b1">Linux</text>
+      <rect x="1080" y="174" width="72" height="6" rx="3" fill="#172236"/>
+      <rect x="1080" y="174" width="36" height="6" rx="3" fill="#00f5a0"/>
+
+      <text x="1030" y="207" fill="#8998b1">Systems</text>
+      <rect x="1080" y="199" width="72" height="6" rx="3" fill="#172236"/>
+      <rect x="1080" y="199" width="21" height="6" rx="3" fill="#ff3cac"/>
+    </g>
+
+    <path d="M1030 232h116" stroke="#1d2a40"/>
+    <text x="1030" y="254" fill="#53627b" font-family="monospace" font-size="9">uptime</text>
+    <text x="1146" y="254" text-anchor="end" fill="#d7deeb" font-family="monospace" font-size="9">∞</text>
+    <text x="1030" y="276" fill="#53627b" font-family="monospace" font-size="9">coffee</text>
+    <text x="1146" y="276" text-anchor="end" fill="#d7deeb" font-family="monospace" font-size="9">∞</text>
+    <text x="1030" y="298" fill="#53627b" font-family="monospace" font-size="9">bugs</text>
+    <text x="1146" y="298" text-anchor="end" fill="#ff61d8" font-family="monospace" font-size="9">∞</text>
+
+    <!-- decorative circuit lines -->
+    <g fill="none" stroke="url(#line)" stroke-width="1.2" opacity=".65">
+      <path d="M304 94h37v-12h42"/>
+      <path d="M304 288h22v38h170"/>
+      <path d="M913 94h86v-23h70"/>
+      <path d="M973 288h22v15h15"/>
+    </g>
+    <g fill="#00f5ff" filter="url(#glowCyan)">
+      <circle cx="384" cy="82" r="2"/>
+      <circle cx="1070" cy="71" r="2"/>
+      <circle cx="496" cy="326" r="2"/>
+    </g>
+
+    <!-- border -->
+    <rect x="7" y="7" width="1186" height="346" rx="22" fill="none" stroke="url(#line)" stroke-opacity=".55"/>
+    <rect x="12" y="12" width="1176" height="336" rx="18" fill="none" stroke="#fff" stroke-opacity=".035"/>
+
+    <!-- subtle moving scan beam -->
+    <rect x="-80" y="0" width="2" height="360" fill="#00f5ff" opacity=".12">
+      <animate attributeName="x" from="-80" to="1280" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
